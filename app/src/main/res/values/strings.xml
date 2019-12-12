@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GERNOTES PRACTICAL</string>
+    <string name="textview_Agrega_nueva_nota"> Agregar Nueva Nota</string>
+    <string name="textview_Agregar_titulo"> Agregar Titulo Nota</string>
+    <string name="Edit_text_titulo">Titulo Nota</string>
+    <string name="textview_descripcion">Descripcion Nota</string>
+    <string name="image_view_Edit">Editar nota</string>
+    <string name="image_view_Eliminar">Eliminar nota</string>
+    <string name="edittext_descripcion">Agregar la descripcion de la nota</string>
+    <string name="button_agregar">Agregar</string>
+    <string name="button_galery">GALERY</string>
+    <string name="button_takePhoto">Take Photo</string>
+</resources>
